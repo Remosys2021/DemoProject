@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The My Brother My Hero Silver Rakhi</name>
+   <tag></tag>
+   <elementGuidId>aabdd314-fbdb-4d3e-a5f5-7948213d40f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart_ajax_section']/div[2]/div/div/figcaption/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.readOnlyLink.dark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>22776988-275c-44a7-a82b-70f0e2b910b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/the-my-brother-my-hero-silver-rakhi.html?configid=458418</value>
+      <webElementGuid>685f03b5-752f-48ad-9a4e-2ddc22393a97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>readOnlyLink dark</value>
+      <webElementGuid>34e80da2-9c43-480c-adf4-657e3e35124b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>20dfa3a5-de92-4c9c-930d-659361af97a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>The My Brother My Hero Silver Rakhi</value>
+      <webElementGuid>26d4faae-1fec-49e2-8d69-d2f762420546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The My Brother My Hero Silver Rakhi</value>
+      <webElementGuid>e9c60161-e65c-4229-ab63-cfc648f423df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart_section&quot;)/div[@id=&quot;cart_ajax_section&quot;]/div[@class=&quot;col-md-9 col-xs-12 cartinr left&quot;]/div[@id=&quot;cart_ajax_section&quot;]/div[@class=&quot;clearfix cartItem&quot;]/div[@class=&quot;col-sm-6 col-xs-6 col-lg-6 rmv-padding-left brk6-left&quot;]/div[@class=&quot;cartItemName clearfix&quot;]/figcaption[1]/a[@class=&quot;readOnlyLink dark&quot;]</value>
+      <webElementGuid>7c543210-5aec-4e8d-8ce2-7c292d9780fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart_ajax_section']/div[2]/div/div/figcaption/a</value>
+      <webElementGuid>421b4362-516a-4216-be55-cd1eb0cea194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The My Brother My Hero Silver Rakhi')]</value>
+      <webElementGuid>4b1b75ed-8e5b-4ee4-9b0b-295294f4dccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/following::a[1]</value>
+      <webElementGuid>ca919f22-704d-4f81-8046-bcc3fc5ef908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/following::a[1]</value>
+      <webElementGuid>080eaec3-6c39-4715-8fb0-39a63d294dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metal'])[1]/preceding::a[1]</value>
+      <webElementGuid>f2f84cfb-abac-4f38-ac79-3c692f511621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The My Brother My Hero Silver Rakhi']/parent::*</value>
+      <webElementGuid>40f6793a-66ff-4a6d-8711-d32555c26f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/the-my-brother-my-hero-silver-rakhi.html?configid=458418')]</value>
+      <webElementGuid>e1b6e31d-08f4-4173-ba58-6382b2aecb7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figcaption/a</value>
+      <webElementGuid>4a1519c8-481d-4be0-8157-071df3a8e1a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/the-my-brother-my-hero-silver-rakhi.html?configid=458418' and @title = 'The My Brother My Hero Silver Rakhi' and (text() = 'The My Brother My Hero Silver Rakhi' or . = 'The My Brother My Hero Silver Rakhi')]</value>
+      <webElementGuid>c68106ff-3f59-431b-af46-12147b2ecad6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_WelcomeRemoSys1</name>
+   <tag></tag>
+   <elementGuidId>a9b62d91-e88d-4df9-9a14-057c86e4cb4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/header/div[2]/div/div/div/div[3]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-toggle.head-links.hidden-xs.hidden-sm.user-account</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6bb2a26d-754c-4a60-8638-cd1bb90b6ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle head-links hidden-xs hidden-sm user-account</value>
+      <webElementGuid>9de20af3-5492-4885-a179-8294b30fb2ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>c4e1375c-07c4-45ae-bc81-3afd99bc26e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Welcome
+RemoSys1
+</value>
+      <webElementGuid>fdf2bd09-f21c-4fa3-8d47-936e80e31b14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;affix-top&quot;]/div[@class=&quot;header-bottom&quot;]/div[@class=&quot;container clearfix pos-rel&quot;]/div[@class=&quot;header-middle padding-top&quot;]/div[@class=&quot;row pos-rel vertical-align logo-menu-block&quot;]/div[@class=&quot;col-xs-5 col-md-4 col-lg-3 right-top-section rmv-padding-right&quot;]/div[@class=&quot;pos-rel pull-right&quot;]/a[@class=&quot;dropdown-toggle head-links hidden-xs hidden-sm user-account&quot;]</value>
+      <webElementGuid>438f5994-cd51-4b84-b8a1-02c7567d21cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/header/div[2]/div/div/div/div[3]/div/a</value>
+      <webElementGuid>a890a3e2-ba09-4778-ac6e-08b11e8f67e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please choose a category or enter a keyword to search'])[1]/following::a[4]</value>
+      <webElementGuid>3a2df7e2-fe60-43ed-9d1d-aee6f0530cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Order'])[1]/preceding::a[2]</value>
+      <webElementGuid>3ce72f98-4023-4eb5-ad5d-807797f4daa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='RemoSys1']/parent::*</value>
+      <webElementGuid>823c99dd-25a1-4e57-b182-d8e0c34e2791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+      <webElementGuid>f6d32cd3-7630-4a7f-908b-0d0a25cc2212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+Welcome
+RemoSys1
+' or . = '
+Welcome
+RemoSys1
+')]</value>
+      <webElementGuid>4589d79f-19a6-4d21-874c-055001eee286</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

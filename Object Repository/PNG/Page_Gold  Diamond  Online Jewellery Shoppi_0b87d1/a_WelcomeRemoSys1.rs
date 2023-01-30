@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_WelcomeRemoSys1</name>
+   <tag></tag>
+   <elementGuidId>e43d06a3-ec04-4253-9d37-45588ee02f9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/header/div[2]/div/div/div/div[3]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-toggle.head-links.hidden-xs.hidden-sm.user-account</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f119c417-713b-4fb6-9a83-6cea5e3071e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle head-links hidden-xs hidden-sm user-account</value>
+      <webElementGuid>5eeb8487-af7e-41e3-b42b-cb4a568c65fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>3c15d03d-43bf-4c52-aa0d-725127f7b70d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Welcome
+RemoSys1
+</value>
+      <webElementGuid>b110cb71-da13-4d3c-a8a1-a75f320c8ae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;affix-top&quot;]/div[@class=&quot;header-bottom&quot;]/div[@class=&quot;container clearfix pos-rel&quot;]/div[@class=&quot;header-middle padding-top&quot;]/div[@class=&quot;row pos-rel vertical-align logo-menu-block&quot;]/div[@class=&quot;col-xs-5 col-md-4 col-lg-3 right-top-section rmv-padding-right&quot;]/div[@class=&quot;pos-rel pull-right&quot;]/a[@class=&quot;dropdown-toggle head-links hidden-xs hidden-sm user-account&quot;]</value>
+      <webElementGuid>db5cafb6-f15b-4d4e-9930-c06936ad8ced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>725adb6e-642e-4ea1-98be-1fbb9da86fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle head-links hidden-xs hidden-sm user-account</value>
+      <webElementGuid>0f085f0e-5da8-40a9-bbd9-ebd993d46798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>08b3131e-f7d0-49b6-95cd-56aa3478d54e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Welcome
+RemoSys1
+</value>
+      <webElementGuid>252dca13-f576-409b-8e20-04a638d01db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;affix-top&quot;]/div[@class=&quot;header-bottom&quot;]/div[@class=&quot;container clearfix pos-rel&quot;]/div[@class=&quot;header-middle padding-top&quot;]/div[@class=&quot;row pos-rel vertical-align logo-menu-block&quot;]/div[@class=&quot;col-xs-5 col-md-4 col-lg-3 right-top-section rmv-padding-right&quot;]/div[@class=&quot;pos-rel pull-right&quot;]/a[@class=&quot;dropdown-toggle head-links hidden-xs hidden-sm user-account&quot;]</value>
+      <webElementGuid>5f16d6df-a6d0-432b-a747-f75d19735450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>954ebd96-168d-46db-a78c-b5a01c414873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle head-links hidden-xs hidden-sm user-account</value>
+      <webElementGuid>75d566e3-9ada-4662-beaf-b2922edfa078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>aac1e5ad-b205-44ac-a003-c48e971caad5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Welcome
+RemoSys1
+</value>
+      <webElementGuid>3ea3328e-cdad-4d71-8bb0-bdfc61897dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;affix-top&quot;]/div[@class=&quot;header-bottom&quot;]/div[@class=&quot;container clearfix pos-rel&quot;]/div[@class=&quot;header-middle padding-top&quot;]/div[@class=&quot;row pos-rel vertical-align logo-menu-block&quot;]/div[@class=&quot;col-xs-5 col-md-4 col-lg-3 right-top-section rmv-padding-right&quot;]/div[@class=&quot;pos-rel pull-right&quot;]/a[@class=&quot;dropdown-toggle head-links hidden-xs hidden-sm user-account&quot;]</value>
+      <webElementGuid>d06c2db9-8541-4719-95cc-901b602881f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ec99c62f-b095-4b00-a929-7b6312444bd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle head-links hidden-xs hidden-sm user-account</value>
+      <webElementGuid>4fa79c96-2975-40eb-8f0e-279cf5571f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>812585d3-0243-4af6-ae29-3995b1bd46b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Welcome
+RemoSys1
+</value>
+      <webElementGuid>47c26b91-8b7e-49c2-be94-2343516f2975</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;affix-top&quot;]/div[@class=&quot;header-bottom&quot;]/div[@class=&quot;container clearfix pos-rel&quot;]/div[@class=&quot;header-middle padding-top&quot;]/div[@class=&quot;row pos-rel vertical-align logo-menu-block&quot;]/div[@class=&quot;col-xs-5 col-md-4 col-lg-3 right-top-section rmv-padding-right&quot;]/div[@class=&quot;pos-rel pull-right&quot;]/a[@class=&quot;dropdown-toggle head-links hidden-xs hidden-sm user-account&quot;]</value>
+      <webElementGuid>2fee9ac5-8240-401a-94b9-a57cf8c9f260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4b70f7e6-d899-450c-a629-283502df795c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle head-links hidden-xs hidden-sm user-account</value>
+      <webElementGuid>cee384c1-68f6-4760-9850-3070fc35116d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>e9ce52e2-f778-4b04-ac85-8a0125b5b25a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Welcome
+RemoSys1
+</value>
+      <webElementGuid>4bbcdc9c-ca86-4e78-98b0-6b667fca9c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;affix-top&quot;]/div[@class=&quot;header-bottom&quot;]/div[@class=&quot;container clearfix pos-rel&quot;]/div[@class=&quot;header-middle padding-top&quot;]/div[@class=&quot;row pos-rel vertical-align logo-menu-block&quot;]/div[@class=&quot;col-xs-5 col-md-4 col-lg-3 right-top-section rmv-padding-right&quot;]/div[@class=&quot;pos-rel pull-right&quot;]/a[@class=&quot;dropdown-toggle head-links hidden-xs hidden-sm user-account&quot;]</value>
+      <webElementGuid>0bfc7042-862b-4970-b1fa-8b97939b5e99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/header/div[2]/div/div/div/div[3]/div/a</value>
+      <webElementGuid>b502a1a6-9d48-4fe7-ba01-c98bad171e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please choose a category or enter a keyword to search'])[1]/following::a[4]</value>
+      <webElementGuid>17ff2cfa-e727-42a0-96e7-166d3200bca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Order'])[1]/preceding::a[2]</value>
+      <webElementGuid>8e7a1af3-7f68-4183-a3bb-b54f4313d0ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='RemoSys1']/parent::*</value>
+      <webElementGuid>fb959f5c-d2cc-45c9-b012-30865fb5805f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+      <webElementGuid>b6e02723-6f9e-4767-a2ec-674350fef667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+Welcome
+RemoSys1
+' or . = '
+Welcome
+RemoSys1
+')]</value>
+      <webElementGuid>38263d6c-a8eb-4716-9800-a2681ab1e6b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

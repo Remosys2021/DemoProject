@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1</name>
+   <tag></tag>
+   <elementGuidId>b5b4a670-40d7-489d-93f1-a3129bbd9305</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/header/div[2]/div/div/div/div[3]/span[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.clearfix.icon-deal-purchase.head-links.cart-short</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>482c93ce-7f0c-4d48-90e1-11ba8ebdc48a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/cart</value>
+      <webElementGuid>47c99926-5ef8-4ec7-9b58-e66edb519bf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clearfix icon-deal-purchase head-links cart-short</value>
+      <webElementGuid>362868f3-76c2-4233-9859-d4dd019a796e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>319868f7-c33d-49d6-8ca3-3e3f6416dc4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;affix-top&quot;]/div[@class=&quot;header-bottom&quot;]/div[@class=&quot;container clearfix pos-rel&quot;]/div[@class=&quot;header-middle padding-top&quot;]/div[@class=&quot;row pos-rel vertical-align logo-menu-block&quot;]/div[@class=&quot;col-xs-5 col-md-4 col-lg-3 right-top-section rmv-padding-right&quot;]/span[@class=&quot;cart-dropdown-box pull-right&quot;]/a[@class=&quot;clearfix icon-deal-purchase head-links cart-short&quot;]</value>
+      <webElementGuid>eaae6fa0-4d54-4fac-b558-1bb7adb7e773</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/header/div[2]/div/div/div/div[3]/span[2]/a</value>
+      <webElementGuid>3c8921ff-f268-466f-a4e3-b2df73f30f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please choose a category or enter a keyword to search'])[1]/following::a[1]</value>
+      <webElementGuid>a52d72b6-283a-47f1-a13e-837134854373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome'])[1]/preceding::a[3]</value>
+      <webElementGuid>071654ae-4d09-41ef-9976-bff65e59af12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/cart')]</value>
+      <webElementGuid>d0088e3f-e3bc-40a6-b996-d17391f153e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/a</value>
+      <webElementGuid>149fe233-74f9-4ab6-96f1-f327a078eba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/cart' and (text() = '1' or . = '1')]</value>
+      <webElementGuid>25fd7408-4c4e-4685-a276-8dd94be058e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

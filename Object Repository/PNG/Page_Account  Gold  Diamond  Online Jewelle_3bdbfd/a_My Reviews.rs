@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Reviews</name>
+   <tag></tag>
+   <elementGuidId>50ab8b3b-6ca3-4a0a-9621-a4cc579fb836</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/div[2]/div/div/ul/li[4]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.icon4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3f765db6-600a-4dda-b1c4-18778bac4835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user/reviewlist/</value>
+      <webElementGuid>df64313d-852e-4f02-afe7-2662403e230d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>reviewlist</value>
+      <webElementGuid>f380c6b9-0718-4bc8-9416-5332331684a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon4</value>
+      <webElementGuid>8e5f1133-1e63-455e-8fab-d591e171ca41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Reviews</value>
+      <webElementGuid>0a1bb75c-ba61-4ad5-b75f-0fae73596a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-xs-12 margin-bottom rmv-padding menu-bar&quot;]/div[@class=&quot;panelmenu&quot;]/ul[@class=&quot;list-unstyled side_menu hidden-xs hidden-xsm hidden-sm light-bg&quot;]/li[4]/ul[@class=&quot;sub_menu&quot;]/li[2]/a[@class=&quot;icon4&quot;]</value>
+      <webElementGuid>35338304-d692-4441-b84c-156953635f50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div[2]/div/div/ul/li[4]/ul/li[2]/a</value>
+      <webElementGuid>90d2d512-2ece-4d17-89c9-6dec3a4a38bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Reviews')]</value>
+      <webElementGuid>9d65859e-5592-4db3-b6b5-1a0fd9f8f90a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wishlist'])[1]/following::a[1]</value>
+      <webElementGuid>9857c53d-f6a1-4634-a4ae-7dd30f24b8f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My stuff'])[1]/following::a[2]</value>
+      <webElementGuid>e7863434-4c70-430f-bdf8-52cde8dfb267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::a[1]</value>
+      <webElementGuid>8c635ffc-40e1-4872-a5f7-a16787d8b7c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Information'])[1]/preceding::a[1]</value>
+      <webElementGuid>689a9aff-8078-47de-8a82-24fc0a61a2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Reviews']/parent::*</value>
+      <webElementGuid>f2bc78b1-04c6-46c8-966d-9289443f5745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/user/reviewlist/')]</value>
+      <webElementGuid>d4174d20-82de-4223-8246-5c492d2f7c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[4]/ul/li[2]/a</value>
+      <webElementGuid>bf843e54-dc4a-43b4-878a-a02254567334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user/reviewlist/' and (text() = 'My Reviews' or . = 'My Reviews')]</value>
+      <webElementGuid>d32d6b9a-b7e4-41e5-b705-20df0492e37f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

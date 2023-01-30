@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add New Address</name>
+   <tag></tag>
+   <elementGuidId>111af718-6703-4d95-9473-14e2483adbbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/div/div[2]/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.btn-sm.addnewAddress</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3c66cc02-b665-4d3c-8c26-23f71449cc4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Javascript:void(0);</value>
+      <webElementGuid>478918a9-d3c1-41a5-b404-3b9cc300317d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm addnewAddress</value>
+      <webElementGuid>c17ec9f6-06ee-4f6a-99ef-d79dcc6466a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add New Address</value>
+      <webElementGuid>b3b242fc-b561-4592-a8e2-32155e9a3919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-9&quot;]/div[@class=&quot;right-panel light-bg&quot;]/div[@class=&quot;edit-profile clearfix&quot;]/a[@class=&quot;btn btn-primary btn-sm addnewAddress&quot;]</value>
+      <webElementGuid>76e87535-69ba-4f9c-9d75-7595e226a81b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div/div[2]/div/div[2]/a</value>
+      <webElementGuid>3a25ad46-a042-45db-9882-4101cf4c8ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add New Address')]</value>
+      <webElementGuid>088f3ef3-00fb-440a-bde5-0bc643901bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remo , Address 1, Address 1, Maharashtra, pune, 123456, India'])[1]/following::a[1]</value>
+      <webElementGuid>ba42b097-90a7-47ec-96ce-c493becc4f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remo , Address 1, Maharashtra, pune, Test, India'])[3]/following::a[3]</value>
+      <webElementGuid>e7666504-6883-4ff0-9011-99f97acd0aed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOP WITHOUT WORRY'])[1]/preceding::a[1]</value>
+      <webElementGuid>803e359b-9a30-409d-ab1e-747d26eac4a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PCJ Store Locator'])[1]/preceding::a[1]</value>
+      <webElementGuid>0051f46d-ae67-4e37-a287-dd0429c3420f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add New Address']/parent::*</value>
+      <webElementGuid>9e389bc1-12e4-4b49-9696-312b549533fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'Javascript:void(0);')])[5]</value>
+      <webElementGuid>22dc47a2-fb0e-4804-944a-472148a97769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/a</value>
+      <webElementGuid>e5b71643-0cf4-4eaf-93c1-2704e3ee2917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Javascript:void(0);' and (text() = 'Add New Address' or . = 'Add New Address')]</value>
+      <webElementGuid>ce5eeedf-6065-47e9-9f7a-943bda98f741</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Gifts</name>
+   <tag></tag>
+   <elementGuidId>cb72aa61-92ac-4656-a300-73b98cf18387</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/div[2]/div/div/ul/li[3]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.icon2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>be1c4bbc-c229-4dd6-a9a7-7a186f3d4016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user/giftcards/</value>
+      <webElementGuid>5af9c9a4-c386-4f52-b178-11c31f040e22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>giftcards</value>
+      <webElementGuid>dcd90956-2e3e-47c8-a6e6-d92e0e4ab0c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon2</value>
+      <webElementGuid>9f0feb7d-d576-4c96-a808-90e43a6df867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Gifts</value>
+      <webElementGuid>adb85549-cfeb-4332-bb94-99b7d5aa08e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-xs-12 margin-bottom rmv-padding menu-bar&quot;]/div[@class=&quot;panelmenu&quot;]/ul[@class=&quot;list-unstyled side_menu hidden-xs hidden-xsm hidden-sm light-bg&quot;]/li[3]/ul[@class=&quot;sub_menu&quot;]/li[2]/a[@class=&quot;icon2&quot;]</value>
+      <webElementGuid>b1650c6e-5a00-4329-a496-c37cc41daed7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div[2]/div/div/ul/li[3]/ul/li[2]/a</value>
+      <webElementGuid>9e35b822-da64-4f39-9394-2986275d4882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Gifts')]</value>
+      <webElementGuid>ce186237-1126-4f14-b49e-f43c4beb61fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wallet'])[1]/following::a[1]</value>
+      <webElementGuid>dd2482b0-a7ea-45c9-b89d-864ef8fb1020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments'])[1]/following::a[2]</value>
+      <webElementGuid>aac8dff5-a3e1-4c02-a65d-139e1abfae03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My stuff'])[1]/preceding::a[1]</value>
+      <webElementGuid>b6feeb8d-2dd6-4000-84f6-ae1831abe2c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wishlist'])[1]/preceding::a[1]</value>
+      <webElementGuid>acf47220-86b7-40b5-a3c5-7b504dffd74d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Gifts']/parent::*</value>
+      <webElementGuid>0dfe1dfa-94e3-48c5-8380-19d1ea03c3c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/user/giftcards/')]</value>
+      <webElementGuid>f4220a49-c40f-4534-b363-cd42c0b35bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[3]/ul/li[2]/a</value>
+      <webElementGuid>63e22253-1a07-4c6a-964c-f7ebef688ccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user/giftcards/' and (text() = 'My Gifts' or . = 'My Gifts')]</value>
+      <webElementGuid>e96e92f5-f794-47d2-993c-c0ae4522739a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

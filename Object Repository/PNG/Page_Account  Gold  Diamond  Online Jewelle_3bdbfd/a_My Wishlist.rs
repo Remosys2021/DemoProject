@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Wishlist</name>
+   <tag></tag>
+   <elementGuidId>bd86dd75-951b-40a8-b720-e914a150933d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/div[2]/div/div/ul/li[4]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee113d04-dab4-4b4c-8fb4-c26e0182748c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user/wishlist/</value>
+      <webElementGuid>d9de89cc-6cad-41f9-92ec-5062f659cba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>wishlist</value>
+      <webElementGuid>96a952fd-c177-489e-9420-2710c63d8ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Wishlist</value>
+      <webElementGuid>11aad4ba-f4d2-4281-b849-1b691d3902fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-xs-12 margin-bottom rmv-padding menu-bar&quot;]/div[@class=&quot;panelmenu&quot;]/ul[@class=&quot;list-unstyled side_menu hidden-xs hidden-xsm hidden-sm light-bg&quot;]/li[4]/ul[@class=&quot;sub_menu&quot;]/li[1]/a[1]</value>
+      <webElementGuid>dd16dd0b-7c0b-4c82-8c32-bde9533b15d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div[2]/div/div/ul/li[4]/ul/li/a</value>
+      <webElementGuid>85adb76c-55ca-493c-a87b-da0c8ba41346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Wishlist')]</value>
+      <webElementGuid>c0b8f466-d79c-42fa-b73c-a01dac3d7740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My stuff'])[1]/following::a[1]</value>
+      <webElementGuid>903e8ad6-4305-4112-a08d-3c4eef1ffc3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Gifts'])[1]/following::a[1]</value>
+      <webElementGuid>db62e8ad-eb37-4944-8ebb-cf7598c2c46b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Reviews'])[1]/preceding::a[1]</value>
+      <webElementGuid>b8fa323d-513d-4bd9-935e-ad447a73bae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::a[2]</value>
+      <webElementGuid>b027a694-acf3-49fe-a850-f7376c1ff76d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Wishlist']/parent::*</value>
+      <webElementGuid>52eb5ab5-7286-4a84-803c-40202097780a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/user/wishlist/')])[2]</value>
+      <webElementGuid>4ad6619d-587e-42b8-9501-6acc46bf9889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[4]/ul/li/a</value>
+      <webElementGuid>ec30da5d-eeb3-48f1-939e-889aad29f473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user/wishlist/' and (text() = 'My Wishlist' or . = 'My Wishlist')]</value>
+      <webElementGuid>700910f8-0cee-47ea-8e96-ab197e292e2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

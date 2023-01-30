@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Return Requests</name>
+   <tag></tag>
+   <elementGuidId>5ed3eb36-f09a-4751-8824-ea72d8f3cc06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/div[2]/div/div/ul/li[2]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bd2bec52-ab6e-4654-b3ff-e3c0811d4333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user/returnrequests/</value>
+      <webElementGuid>fffd7e08-a86c-4d48-8971-db7acd32ef7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>returnRequests</value>
+      <webElementGuid>5a654bf0-8942-499f-b8d1-360f4f04c71b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Return Requests</value>
+      <webElementGuid>c8596288-18f7-4022-af24-71fa7c652bf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-xs-12 margin-bottom rmv-padding menu-bar&quot;]/div[@class=&quot;panelmenu&quot;]/ul[@class=&quot;list-unstyled side_menu hidden-xs hidden-xsm hidden-sm light-bg&quot;]/li[2]/ul[@class=&quot;sub_menu&quot;]/li[2]/a[1]</value>
+      <webElementGuid>47b01da3-dc7a-4426-a6a5-08c5366d824a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div[2]/div/div/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>53f45581-0a50-4892-b878-d091db5f9185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Return Requests')])[2]</value>
+      <webElementGuid>21ce7d04-8809-4024-beb0-5b188291cde0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Order'])[2]/following::a[1]</value>
+      <webElementGuid>0103fb9a-6729-4415-882b-51efd0055e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[1]/following::a[2]</value>
+      <webElementGuid>e966dea3-9073-414c-bafc-4ce1c45bed9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments'])[1]/preceding::a[1]</value>
+      <webElementGuid>d8d5f88b-ad02-46d4-9df2-231d38a62069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wallet'])[1]/preceding::a[1]</value>
+      <webElementGuid>32e108bf-98da-46df-9773-aa0e3bd40bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/user/returnrequests/')])[2]</value>
+      <webElementGuid>3dba1f55-2293-4e0d-a999-7b32b20407b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>41c7d246-287e-4ef9-9957-bca7e8589625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user/returnrequests/' and (text() = 'Return Requests' or . = 'Return Requests')]</value>
+      <webElementGuid>f00bed75-e6f9-4a30-9318-bb3a92a97664</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

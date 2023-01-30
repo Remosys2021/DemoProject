@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Make this my primary shipping address</name>
+   <tag></tag>
+   <elementGuidId>158c230e-6b3f-41e8-9c74-eb6277de7b38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formUserShippingEdit']/div[5]/div/div/p/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.primaryCheck > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>132c3cd5-d99c-4dbc-be7d-b5248bfa33bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>makeAddressAsPrimary</value>
+      <webElementGuid>89ccf8b9-e8a5-431c-8834-b7e827d8b618</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Make this my primary shipping address</value>
+      <webElementGuid>45d0da44-bbac-4dc5-9746-a93a0785be3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formUserShippingEdit&quot;)/div[@class=&quot;clearfix&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;form-group&quot;]/p[@class=&quot;primaryCheck&quot;]/label[1]</value>
+      <webElementGuid>7e321218-aff4-4e02-ac1f-4503b693faaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formUserShippingEdit']/div[5]/div/div/p/label</value>
+      <webElementGuid>06338b2d-40f2-4680-bf39-0179b16a1755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Pin Code'])[1]/following::label[1]</value>
+      <webElementGuid>aa260d2b-ca6f-47ea-addf-ca730f0ae556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::label[1]</value>
+      <webElementGuid>9a2de4dd-1c45-466d-b66e-3d92f8c10556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cancel'])[1]/preceding::label[1]</value>
+      <webElementGuid>360eb0b4-8916-45b0-80c9-caf7aec7fbea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOP WITHOUT WORRY'])[1]/preceding::label[1]</value>
+      <webElementGuid>0d76b696-ebd9-488a-9f91-5876cf19576b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Make this my primary shipping address']/parent::*</value>
+      <webElementGuid>630967d8-3fae-4f9f-a5dc-848602309de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/label</value>
+      <webElementGuid>dfa5f764-79f8-4f90-a243-f6b8a1aef525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Make this my primary shipping address' or . = 'Make this my primary shipping address')]</value>
+      <webElementGuid>85b97604-d769-4afc-93a1-68599808bdb6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
